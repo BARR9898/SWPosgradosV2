@@ -1,2 +1,0 @@
-*ngIf="this.form.controls.GPI_conocimientos_basicos['controls'].length > 1"
-disabled="{{ form.controls['GPI_conocimientos_basicos'].invalid }}"
